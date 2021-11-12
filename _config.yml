@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Hyeona Blog
+email:              h0y1un20@google.com
+description:        A Project become to beginner programmer
+author:             Hyeona Lim
 baseurl:            "/hyeona-blog.github.io"
 url:                "https://hyeonalim.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:    hyeonalim
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
